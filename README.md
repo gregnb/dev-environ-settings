@@ -1,9 +1,10 @@
 # Sublime 3 
 
 Packages to install. Tools -> Command Palette -> Type "Install Package"
-  Babel
-  SublimeLinter
-  SublimeLinter-contrib-eslint
+
+    Babel
+    SublimeLinter
+    SublimeLinter-contrib-eslint
   
 
 # ESLint install & config
