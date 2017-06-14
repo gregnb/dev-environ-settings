@@ -23,6 +23,7 @@ User Settings:
 
 npm install eslint babel-eslint eslint-plugin-import eslint-plugin-react -g
 
+## .eslintrc ##
 
     {
         "parser": "babel-eslint",
