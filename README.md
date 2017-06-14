@@ -5,7 +5,19 @@ Packages to install. Tools -> Command Palette -> Type "Install Package"
     Babel
     SublimeLinter
     SublimeLinter-contrib-eslint
-  
+
+User Settings:
+
+    {
+        "color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+        "dpi_scale": 1.2,
+        "font_size": 13,
+        "ignored_packages":
+        [
+            "Vintage"
+        ]
+    }
+
 
 # ESLint install & config
 
