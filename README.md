@@ -89,9 +89,7 @@ npm install eslint babel-eslint eslint-plugin-import eslint-plugin-react -g
             new ExtractTextPlugin('css/build-styles.css'),
             new webpack.optimize.OccurrenceOrderPlugin(),
             new webpack.ProvidePlugin({
-                'store' : 'store',
-                'window.store' : 'store',
-                'react-slick' : 'react-slick'
+                'store' : 'store'
             }),
             new webpack.optimize.CommonsChunkPlugin({
                 name: 'vendor',
