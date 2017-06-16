@@ -12,11 +12,14 @@ User Settings:
         "color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
         "dpi_scale": 1.2,
         "font_size": 13,
+        "tab_size": 2,
+        "translate_tabs_to_spaces": true,
         "ignored_packages":
         [
             "Vintage"
         ]
     }
+
 
 
 # ESLint install & config
