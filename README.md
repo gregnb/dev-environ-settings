@@ -22,7 +22,11 @@ User Settings:
         ]
     }
 
+Color Highlighter Settings:
 
+    {
+      "ha_style":"filled"
+    }
 
 # ESLint install & config
 
