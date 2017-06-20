@@ -4,6 +4,7 @@ Packages to install. Tools -> Command Palette -> Type "Install Package"
 
     Babel
     Less
+    Color Highlighter
     SublimeLinter
     SublimeLinter-contrib-eslint
 
