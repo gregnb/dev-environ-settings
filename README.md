@@ -3,6 +3,7 @@
 Packages to install. Tools -> Command Palette -> Type "Install Package"
 
     Babel
+    Less
     SublimeLinter
     SublimeLinter-contrib-eslint
 
