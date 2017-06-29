@@ -28,9 +28,31 @@ Color Highlighter Settings:
       "ha_style":"filled"
     }
 
+# VIM/OH MY ZSH 
+
+    git clone https://github.com/amix/vimrc.git ~/.vim_runtime
+    sh ~/.vim_runtime/install_awesome_vimrc.sh
+    
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    Open ~/.zshrc and set theme to:
+        ZSH_THEME="agnoster"
+   
+    git clone https://github.com/powerline/fonts.git
+    ./install.sh
+     
+# GIT
+
+    git config --global user.email gregnb@gregnb.com
+    git config --global user.name "Gregory N"
+
+    git config --global mergetool.prompt false
+    git config --global mergetool.keepBackup false
+    git config --global merge.conflictstyle diff3
+
+
 # ESLint install & config
 
-npm install eslint babel-eslint eslint-plugin-import eslint-plugin-react -g
+    npm install eslint babel-eslint eslint-plugin-import eslint-plugin-react -g
 
 ## .eslintrc ##
 
