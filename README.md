@@ -48,6 +48,8 @@ Color Highlighter Settings:
     git config --global mergetool.prompt false
     git config --global mergetool.keepBackup false
     git config --global merge.conflictstyle diff3
+    
+    git config --global core.editor /usr/bin/vim
 
 
 # ESLint install & config
