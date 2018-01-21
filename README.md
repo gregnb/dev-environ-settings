@@ -40,6 +40,8 @@ Color Highlighter Settings:
     git clone https://github.com/powerline/fonts.git
     ./install.sh
      
+    Then if using iTerm2 make sure to update to Powerline Font
+    
 # GIT
 
     git config --global user.email gregnb@gregnb.com
