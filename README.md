@@ -41,6 +41,7 @@ Color Highlighter Settings:
     ./install.sh
      
     Then if using iTerm2 make sure to update to Powerline Font
+      14pt Meslo LG M DZ for Powerline
     
 # GIT
 
