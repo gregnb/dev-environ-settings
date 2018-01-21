@@ -43,6 +43,12 @@ Color Highlighter Settings:
     Then if using iTerm2 make sure to update to Powerline Font
       14pt Meslo LG M DZ for Powerline
     
+    update agnoster.zsh-theme in ~/.oh-my-zsh with following prompt color change:
+    # Dir: current working directory
+        prompt_dir() {
+          prompt_segment blue white '%~'
+        }
+
 # GIT
 
     git config --global user.email gregnb@gregnb.com
