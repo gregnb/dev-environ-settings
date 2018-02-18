@@ -28,6 +28,8 @@ Color Highlighter Settings:
       "ha_style":"filled"
     }
 
+    ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+
 # VIM/OH MY ZSH 
 
     git clone https://github.com/amix/vimrc.git ~/.vim_runtime
